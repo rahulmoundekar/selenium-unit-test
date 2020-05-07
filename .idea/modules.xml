@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../creating-and-running-test-suites-unittest/.idea/creating-and-running-test-suites-unittest.iml" filepath="$PROJECT_DIR$/../../creating-and-running-test-suites-unittest/.idea/creating-and-running-test-suites-unittest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/selenium-unit-test.iml" filepath="$PROJECT_DIR$/.idea/selenium-unit-test.iml" />
+    </modules>
+  </component>
+</project>

@@ -37,3 +37,8 @@ Safari:	https://webkit.org/blog/6900/webdriver-support-in-safari-10/
    ```
     python orange_hrm.py
    ```
+ - create clone in you system just execute this file
+  	```
+	1} create virtualenv and just type below command
+	2} pip install -r .\requirements.txt
+	```

@@ -7,7 +7,7 @@
     mkdir selenium-unit-test
 	  cd selenium-unit-test
     ```
-  - Web Scraping installation:
+  - environment installation:
      ```
      open command prompt type 
         pip install virtualenv

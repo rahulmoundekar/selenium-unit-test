@@ -15,9 +15,7 @@
     	>>virtualenv pyunit-with-selenium
      we need to activate virtualenv for use
     	>>pyunit-with-selenium\scripts\activate
-     
-     need libraries for Web Scraping :
-     
+       
     pip install selenium
     ```
     While the installation of Selenium makes the functionality available to you, you need additional drivers for it to be able to interface with a chosen web browser. The download links for the drivers are available here: Chrome, Edge, Firefox and Safari. For the remainder of this tutorial, we will use the Chrome driver. Follow the link for the browser of your choice and download the driver for the compatible version.
